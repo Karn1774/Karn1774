@@ -51,18 +51,7 @@ Systems architecture, high-performance backends, and clean frontend — sometime
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
----
 
-## github stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Karn1774&show_icons=true&theme=transparent&hide_border=true&title_color=534AB7&icon_color=534AB7&text_color=888&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn1774&layout=compact&theme=transparent&hide_border=true&title_color=534AB7&text_color=888" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karn1774&theme=transparent&hide_border=true&ring=534AB7&fire=D85A30&currStreakLabel=534AB7&sideLabels=888&dates=888" />
-</p>
 
 ---
 
